@@ -64,6 +64,7 @@
     <Content Include="views\about.jade" />
     <Content Include="views\index.jade" />
     <Content Include="views\layout.jade" />
+    <Content Include="views\new.jade" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config" />
     <Content Include="bin\ChangeConfig.ps1" />
